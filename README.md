@@ -41,7 +41,3 @@ Python, scikit-learn, Streamlit, Pandas, Matplotlib, Seaborn, imbalanced-learn, 
 ## Dataset
 
 [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) — Machine Learning Group, Université Libre de Bruxelles.
-
----
-
-Built by Tanvi P Yannawar — B.Tech CSE, First Year
